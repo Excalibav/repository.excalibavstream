@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.excalibavstream" name="Excalibav Stream" version="0.0.1" provider-name="Excalibav">
+	<extension point="xbmc.addon.repository" name="Excalibav Stream">
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/</datadir>
+		</dir>
+		<info compressed="false">https://raw.githubusercontent.com/excalibav/repository.excalibavstream/master/zips/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/excalibav/repository.excalibavstream/master/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/excalibav/repository.excalibavstream/master/zips/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Danish Movies List</summary>
+		<description lang="en">All Danish Movies</description>
+		<genre>movies,danish</genre>
+	</extension>
+</addon>
